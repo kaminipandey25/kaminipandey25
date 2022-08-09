@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### This is Kamini Pandey
+### Hi,I'm Kamini👋
 
 - 🔭 I’m currently pursuing BE CSE from SATHAYABAMA UNIVERSITY
 - 🌱 I’m currently learning PYTHON
