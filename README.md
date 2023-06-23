@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on new algorithms
 - 🤔 I’m looking for help with python
 - 💬 Ask me about : I'm happy to help with anything I know ✌️
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kamini-pandey-448411236) 
+- 📫 How to reach me: https://www.linkedin.com/in/kamini-pandey-b26303214
 - 😄 Pronouns: she/Her
    
   ⚙️ <b>Languages and Tools:</b>
