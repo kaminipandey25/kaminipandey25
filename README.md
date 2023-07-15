@@ -1,6 +1,6 @@
 ### Hi,I'm Kamini👋
 
-- 🔭 I’m currently pursuing BE CSE from SATHAYABAMA UNIVERSITY
+- 🔭 I’m currently pursuing BE CSE from SATHAYABAMA INSTITUTE OF TECHNOLOGY
 - 🌱 I’m currently learning JAVA
 - 👯 I’m looking to collaborate on new algorithms
 - 🤔 I’m looking for help with python
